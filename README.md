@@ -3,7 +3,7 @@ Reflection Separation Using Guided Annotation
 
 Code accompanying the paper: 
 
-Reflection Separation Using Guided Annotation
+Reflection Separation Using Guided Annotation  
 Ofer Springer, Yair Weiss
 
 The preprint is available here:
